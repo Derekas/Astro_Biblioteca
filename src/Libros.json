@@ -1,0 +1,125 @@
+{
+    "libros": [
+      {
+        "titulo": "El Gran Gatsby",
+        "autor": "F. Scott Fitzgerald",
+        "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/The_Great_Gatsby_Cover_1925_Retouched.jpg",
+        "descripcion": "La historia de Jay Gatsby, un millonario misterioso que organiza fiestas extravagantes en su mansión en Long Island en los años 1920."
+      },
+      {
+        "titulo": "Cien años de soledad",
+        "autor": "Gabriel García Márquez",
+        "imagen_url": "https://images.cdn3.buscalibre.com/fit-in/360x360/61/8d/618d227e8967274cd9589a549adff52d.jpg",
+        "descripcion": "Una saga familiar que abarca varias generaciones en el ficticio pueblo de Macondo, fusionando lo real y lo mágico."
+      },
+      {
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "imagen_url": "https://images.cdn2.buscalibre.com/fit-in/360x360/33/f9/33f911d9a7ba713874725a96c341733f.jpg",
+        "descripcion": "Una distopía que presenta un mundo totalitario vigilado por el Gran Hermano y controlado por el Partido."
+      },
+      {
+        "titulo": "Matar un ruiseñor",
+        "autor": "Harper Lee",
+        "imagen_url": "https://www.harpercollinsiberica.com/cdn/shop/products/9788468767024_1200x630.jpg?v=1645538654",
+        "descripcion": "La historia de la niña Scout Finch y su hermano Jem mientras su padre, Atticus Finch, defiende a un hombre negro acusado injustamente de violación."
+      },
+      {
+        "titulo": "Don Quijote de la Mancha",
+        "autor": "Miguel de Cervantes",
+        "imagen_url": "https://proassetspdlcom.cdnstatics2.com/usuaris/libros/fotos/374/original/portada_don-quijote-de-la-mancha-comic_miguel-de-cervantes_202303011510.jpg",
+        "descripcion": "La novela épica que sigue las aventuras de Don Quijote y su fiel escudero Sancho Panza mientras persiguen hazañas imposibles."
+      },
+      {
+        "titulo": "Harry Potter y la piedra filosofal",
+        "autor": "J.K. Rowling",
+        "imagen_url": "https://m.media-amazon.com/images/I/51uxZ1EkT4L.jpg",
+        "descripcion": "La historia del joven mago Harry Potter mientras descubre su identidad en el mundo de la magia y enfrenta a Lord Voldemort."
+      },
+      {
+        "titulo": "Moby-Dick",
+        "autor": "Herman Melville",
+        "imagen_url": "https://hablamosdelibros.es/wp-content/uploads/2023/04/LB00157001-1.jpg",
+        "descripcion": "La obsesión del capitán Ahab por cazar al gran cachalote blanco, Moby-Dick, lleva a su tripulación a una tragedia épica en alta mar."
+      },
+      {
+        "titulo": "Orgullo y prejuicio",
+        "autor": "Jane Austen",
+        "imagen_url": "https://global-uploads.webflow.com/6034d7d1f3e0f52c50b2adee/625452ebb0e15e764981b44c_6034d7d1f3e0f55fcab2b2de_Orgullo-y-prejuicio-jane-austen-editorial-alma.jpeg",
+        "descripcion": "La historia de Elizabeth Bennet y su complicada relación con el orgulloso Sr. Darcy en la Inglaterra del siglo XIX."
+      },
+      {
+        "titulo": "Crimen y castigo",
+        "autor": "Fyodor Dostoevsky",
+        "imagen_url": "https://global-uploads.webflow.com/6034d7d1f3e0f52c50b2adee/6254541d8ae4df16d4e69bc8_6034d7d1f3e0f54529b2b1a1_Crimen-y-castigo-fiodor-dostoyevski-editorial-alma.jpeg",
+        "descripcion": "La novela sigue a Raskólnikov, un estudiante que comete un asesinato y luego enfrenta las consecuencias de su acto."
+      },
+      {
+        "titulo": "Los juegos del hambre",
+        "autor": "Suzanne Collins",
+        "imagen_url": "https://www.sopadesapo.com//imagenes_grandes/9788427/978842720213.JPG",
+        "descripcion": "En un futuro distópico, Katniss Everdeen se convierte en el símbolo de la resistencia al ser elegida para participar en los Juegos del Hambre."
+      },
+      {
+        "titulo": "El Alquimista",
+        "autor": "Paulo Coelho",
+        "imagen_url": "https://m.media-amazon.com/images/I/81KYCUSk8KL._AC_UF1000,1000_QL80_.jpg",
+        "descripcion": "La búsqueda espiritual de Santiago, un pastor, mientras viaja por el desierto en busca de un tesoro oculto."
+      },
+      {
+        "titulo": "Mujer en punto cero",
+        "autor": "Nawal El Saadawi",
+        "imagen_url": "https://capitanswing.com/wp-content/uploads/NawalElSaadawi_MujerEnPuntoCero.jpg",
+        "descripcion": "La historia de Firdaus, una mujer egipcia condenada a muerte por asesinato, y su lucha contra la opresión."
+      },
+      {
+        "titulo": "El código Da Vinci",
+        "autor": "Dan Brown",
+        "imagen_url": "https://m.media-amazon.com/images/I/51q+0WCI7mL.jpg",
+        "descripcion": "Un profesor de simbología, Robert Langdon, investiga una serie de misterios religiosos y conspiraciones en París."
+      },
+      {
+        "titulo": "El Hobbit",
+        "autor": "J.R.R. Tolkien",
+        "imagen_url": "https://static.wikia.nocookie.net/doblaje/images/a/a9/ELHBT1CartelLatino.png/revision/latest/scale-to-width-down/1200?cb=20170108043218&path-prefix=es",
+        "descripcion": "Las aventuras de Bilbo Bolsón mientras se une a un grupo de enanos en busca de un tesoro guardado por el dragón Smaug."
+      },
+      {
+        "titulo": "En busca del tiempo perdido",
+        "autor": "Marcel Proust",
+        "imagen_url": "https://www.alianzaeditorial.es/imagenes/libros/grande/9788491045212-en-busca-del-tiempo-perdido--estuche.jpg",
+        "descripcion": "Una obra monumental que explora la memoria, la introspección y la sociedad francesa del siglo XIX."
+      },
+      {
+        "titulo": "El nombre del viento",
+        "autor": "Patrick Rothfuss",
+        "imagen_url": "https://m.media-amazon.com/images/I/91UNBSQddOL._AC_UF1000,1000_QL80_.jpg",
+        "descripcion": "La historia de Kvothe, un músico y mago, mientras narra sus aventuras y desventuras en un mundo de fantasía."
+      },
+      {
+        "titulo": "El diario de Ana Frank",
+        "autor": "Ana Frank",
+        "imagen_url": "https://m.media-amazon.com/images/I/41XCt9P4s9L.jpg",
+        "descripcion": "El conmovedor diario de Ana Frank, una niña judía que se escondió con su familia durante la Segunda Guerra Mundial."
+      },
+      {
+        "titulo": "El retrato de Dorian Gray",
+        "autor": "Oscar Wilde",
+        "imagen_url": "https://pics.filmaffinity.com/El_retrato_de_Dorian_Gray-120622096-large.jpg",
+        "descripcion": "La historia de Dorian Gray, un joven cuya imagen en un retrato envejece en su lugar mientras él permanece joven y corrupto."
+      },
+      {
+        "titulo": "Los pilares de la Tierra",
+        "autor": "Ken Follett",
+        "imagen_url": "https://m.media-amazon.com/images/I/91G5zRD4wDL._AC_UF1000,1000_QL80_.jpg",
+        "descripcion": "La construcción de una catedral en la Inglaterra medieval y las vidas entrelazadas de sus personajes."
+      },
+      {
+        "titulo": "La sombra del viento",
+        "autor": "Carlos Ruiz Zafón",
+        "imagen_url": "https://m.media-amazon.com/images/I/51Ty5FOq4kL.jpg",
+        "descripcion": "La búsqueda de un libro misterioso lleva a Daniel Sempere a descubrir oscuros secretos en el Cementerio de los Libros Olvidados."
+      }
+    ]
+  }
+  

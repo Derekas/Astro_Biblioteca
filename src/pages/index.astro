@@ -1,0 +1,29 @@
+---
+import Layout from "../layouts/Layout.astro";
+import LibrosComp from "../components/LibrosComp.astro";
+import librosData from "../Libros.json";
+import type { Libro} from '../components/types/Types.ts'
+
+
+const libros: Libro[] = librosData.libros;
+
+---
+
+<Layout title="Astro Biblio.">
+  {
+    (
+      <div class="m-9 gap-6 grid-cols-1 grid align-middle justify-center text-center sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4" >
+        {libros.map((book) => (
+          <LibrosComp
+            titulo={book.titulo}
+            autor={book.autor}
+            imagen_url={book.imagen_url}
+            descripcion={book.descripcion}
+          />
+        ))}
+      </div>
+    )
+  }
+</Layout>
+
+<style></style>
